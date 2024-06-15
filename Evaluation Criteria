@@ -1,10 +1,9 @@
-
 ### .github/workflows/ci.yml
 ```yaml
 name: CI
 
 on:
-  pull_request:loan-processing-contest-submission-StrateFi
+  pull_request:
     branches:
       - main
 
@@ -29,3 +28,4 @@ jobs:
     - name: Run tests
       run: |
         python -m unittest discover -s tests
+
