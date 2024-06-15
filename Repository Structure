@@ -1,0 +1,10 @@
+/loan-processing-contest
+|-- README.md
+|-- .github
+|   |-- workflows
+|       |-- ci.yml
+|-- starter_code
+|   |-- main.py
+|-- requirements.txt
+|-- tests
+    |-- test_main.py
