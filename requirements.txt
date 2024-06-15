@@ -1,0 +1,2 @@
+# Add any necessary dependencies here
+pymupdf
