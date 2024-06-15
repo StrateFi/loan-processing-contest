@@ -1,0 +1,9 @@
+import fitz  # PyMuPDF
+
+def extract_financial_metrics_from_pdf(pdf_path):
+    # Implement PDF extraction logic here
+    pass
+
+def determine_bank(application_data):
+    # Implement loan processing logic here using extracted financial metrics
+    return "Bank A"
